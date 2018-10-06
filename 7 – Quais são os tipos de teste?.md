@@ -18,3 +18,8 @@ Teste de Usabilidade
 Testes de Caixa Branca e Caixa Preta
 Teste de Regressão
 Teste de Manutenção
+
+
+
+
+LUCAS RIBEIRO - RA 1801058
