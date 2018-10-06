@@ -1,0 +1,1 @@
+A recomendação é que tenha uma parte maior para teste de unidade (60%), outra menor para testes de integração (30%) e outra ainda menor para testes funcionais (10%).
